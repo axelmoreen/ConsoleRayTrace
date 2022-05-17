@@ -1,6 +1,6 @@
 # ConsoleRayTrace
 
-Simple .obj loading / ASCII ray tracing for 3D objects
+Simple .obj loading / ASCII ray tracing for 3D objects. Still a bit slow!
 
 Suzanne.obj
 
